@@ -1,78 +1,90 @@
-2025-11-13 06:00:21.365 [main] INFO  com.project.steps.LoginSteps - ===== Starting test with browser: chrome =====
-2025-11-13 06:00:22.038 [main] INFO  com.project.pages.LoginPage - Navigating to https://www.saucedemo.com
-2025-11-13 06:00:22.271 [main] INFO  com.project.steps.LoginSteps - Login page opened successfully
-2025-11-13 06:00:22.274 [main] INFO  com.project.steps.LoginSteps - Entering username : 'standard_user'
-2025-11-13 06:00:22.375 [main] INFO  com.project.steps.LoginSteps - Clearing username field
-2025-11-13 06:00:22.425 [main] INFO  com.project.steps.LoginSteps - Entering password : 'secret_sauce'
-2025-11-13 06:00:22.483 [main] INFO  com.project.steps.LoginSteps - Clearing password field
-2025-11-13 06:00:22.525 [main] INFO  com.project.steps.LoginSteps - Clicking login button
-2025-11-13 06:00:22.581 [main] INFO  com.project.steps.LoginSteps - Verifying error message contains 'Epic sadface: Username is required'
-2025-11-13 06:00:22.615 [main] INFO  com.project.steps.LoginSteps - Error message verified: 'Epic sadface: Username is required'
-2025-11-13 06:00:22.616 [main] INFO  com.project.steps.LoginSteps - Closing browser
-2025-11-13 06:00:22.616 [main] INFO  com.project.pages.LoginPage - Closing browser
-2025-11-13 06:00:22.687 [main] INFO  com.project.steps.LoginSteps - ===== Test completed =====
+2025-11-13 21:39:00.202 [main] INFO  com.project.steps.LoginSteps - ===== Starting test with browser: chrome =====
+2025-11-13 21:39:00.204 [main] INFO  com.project.utils.DriverFactory - Creating WebDriver for browser: chrome
+2025-11-13 21:39:00.205 [main] INFO  com.project.utils.DriverFactory - Initializing ChromeDriver
+2025-11-13 21:39:00.911 [main] INFO  com.project.pages.LoginPage - Navigating to https://www.saucedemo.com
+2025-11-13 21:39:01.391 [main] INFO  com.project.steps.LoginSteps - Login page opened successfully
+2025-11-13 21:39:01.393 [main] INFO  com.project.steps.LoginSteps - Entering username : 'standard_user'
+2025-11-13 21:39:01.470 [main] INFO  com.project.steps.LoginSteps - Clearing username field
+2025-11-13 21:39:01.504 [main] INFO  com.project.steps.LoginSteps - Entering password : 'secret_sauce'
+2025-11-13 21:39:01.552 [main] INFO  com.project.steps.LoginSteps - Clearing password field
+2025-11-13 21:39:01.584 [main] INFO  com.project.steps.LoginSteps - Clicking login button
+2025-11-13 21:39:01.632 [main] INFO  com.project.steps.LoginSteps - Verifying error message contains 'Epic sadface: Username is required'
+2025-11-13 21:39:01.665 [main] INFO  com.project.steps.LoginSteps - Error message verified: 'Epic sadface: Username is required'
+2025-11-13 21:39:01.666 [main] INFO  com.project.steps.LoginSteps - Closing browser
+2025-11-13 21:39:01.666 [main] INFO  com.project.pages.LoginPage - Closing browser
+2025-11-13 21:39:01.738 [main] INFO  com.project.steps.LoginSteps - ===== Test completed =====
 
-2025-11-13 06:00:22.693 [main] INFO  com.project.steps.LoginSteps - ===== Starting test with browser: edge =====
-2025-11-13 06:00:23.099 [main] INFO  com.project.pages.LoginPage - Navigating to https://www.saucedemo.com
-2025-11-13 06:00:23.343 [main] INFO  com.project.steps.LoginSteps - Login page opened successfully
-2025-11-13 06:00:23.343 [main] INFO  com.project.steps.LoginSteps - Entering username : 'standard_user'
-2025-11-13 06:00:23.428 [main] INFO  com.project.steps.LoginSteps - Clearing username field
-2025-11-13 06:00:23.465 [main] INFO  com.project.steps.LoginSteps - Entering password : 'secret_sauce'
-2025-11-13 06:00:23.542 [main] INFO  com.project.steps.LoginSteps - Clearing password field
-2025-11-13 06:00:23.579 [main] INFO  com.project.steps.LoginSteps - Clicking login button
-2025-11-13 06:00:23.631 [main] INFO  com.project.steps.LoginSteps - Verifying error message contains 'Epic sadface: Username is required'
-2025-11-13 06:00:23.663 [main] INFO  com.project.steps.LoginSteps - Error message verified: 'Epic sadface: Username is required'
-2025-11-13 06:00:23.664 [main] INFO  com.project.steps.LoginSteps - Closing browser
-2025-11-13 06:00:23.664 [main] INFO  com.project.pages.LoginPage - Closing browser
-2025-11-13 06:00:23.731 [main] INFO  com.project.steps.LoginSteps - ===== Test completed =====
+2025-11-13 21:39:01.744 [main] INFO  com.project.steps.LoginSteps - ===== Starting test with browser: edge =====
+2025-11-13 21:39:01.744 [main] INFO  com.project.utils.DriverFactory - Creating WebDriver for browser: edge
+2025-11-13 21:39:01.745 [main] INFO  com.project.utils.DriverFactory - Initializing EdgeDriver
+2025-11-13 21:39:02.225 [main] INFO  com.project.pages.LoginPage - Navigating to https://www.saucedemo.com
+2025-11-13 21:39:02.489 [main] INFO  com.project.steps.LoginSteps - Login page opened successfully
+2025-11-13 21:39:02.489 [main] INFO  com.project.steps.LoginSteps - Entering username : 'standard_user'
+2025-11-13 21:39:02.572 [main] INFO  com.project.steps.LoginSteps - Clearing username field
+2025-11-13 21:39:02.612 [main] INFO  com.project.steps.LoginSteps - Entering password : 'secret_sauce'
+2025-11-13 21:39:02.666 [main] INFO  com.project.steps.LoginSteps - Clearing password field
+2025-11-13 21:39:02.703 [main] INFO  com.project.steps.LoginSteps - Clicking login button
+2025-11-13 21:39:02.752 [main] INFO  com.project.steps.LoginSteps - Verifying error message contains 'Epic sadface: Username is required'
+2025-11-13 21:39:02.778 [main] INFO  com.project.steps.LoginSteps - Error message verified: 'Epic sadface: Username is required'
+2025-11-13 21:39:02.779 [main] INFO  com.project.steps.LoginSteps - Closing browser
+2025-11-13 21:39:02.779 [main] INFO  com.project.pages.LoginPage - Closing browser
+2025-11-13 21:39:02.845 [main] INFO  com.project.steps.LoginSteps - ===== Test completed =====
 
-2025-11-13 06:00:23.734 [main] INFO  com.project.steps.LoginSteps - ===== Starting test with browser: chrome =====
-2025-11-13 06:00:24.142 [main] INFO  com.project.pages.LoginPage - Navigating to https://www.saucedemo.com
-2025-11-13 06:00:24.368 [main] INFO  com.project.steps.LoginSteps - Login page opened successfully
-2025-11-13 06:00:24.369 [main] INFO  com.project.steps.LoginSteps - Entering username : 'standard_user'
-2025-11-13 06:00:24.451 [main] INFO  com.project.steps.LoginSteps - Entering password : 'secret_sauce'
-2025-11-13 06:00:24.505 [main] INFO  com.project.steps.LoginSteps - Clearing password field
-2025-11-13 06:00:24.540 [main] INFO  com.project.steps.LoginSteps - Clicking login button
-2025-11-13 06:00:24.589 [main] INFO  com.project.steps.LoginSteps - Verifying error message contains 'Epic sadface: Password is required'
-2025-11-13 06:00:24.615 [main] INFO  com.project.steps.LoginSteps - Error message verified: 'Epic sadface: Password is required'
-2025-11-13 06:00:24.615 [main] INFO  com.project.steps.LoginSteps - Closing browser
-2025-11-13 06:00:24.616 [main] INFO  com.project.pages.LoginPage - Closing browser
-2025-11-13 06:00:24.682 [main] INFO  com.project.steps.LoginSteps - ===== Test completed =====
+2025-11-13 21:39:02.849 [main] INFO  com.project.steps.LoginSteps - ===== Starting test with browser: chrome =====
+2025-11-13 21:39:02.849 [main] INFO  com.project.utils.DriverFactory - Creating WebDriver for browser: chrome
+2025-11-13 21:39:02.849 [main] INFO  com.project.utils.DriverFactory - Initializing ChromeDriver
+2025-11-13 21:39:03.295 [main] INFO  com.project.pages.LoginPage - Navigating to https://www.saucedemo.com
+2025-11-13 21:39:03.515 [main] INFO  com.project.steps.LoginSteps - Login page opened successfully
+2025-11-13 21:39:03.515 [main] INFO  com.project.steps.LoginSteps - Entering username : 'standard_user'
+2025-11-13 21:39:03.596 [main] INFO  com.project.steps.LoginSteps - Entering password : 'secret_sauce'
+2025-11-13 21:39:03.648 [main] INFO  com.project.steps.LoginSteps - Clearing password field
+2025-11-13 21:39:03.681 [main] INFO  com.project.steps.LoginSteps - Clicking login button
+2025-11-13 21:39:03.727 [main] INFO  com.project.steps.LoginSteps - Verifying error message contains 'Epic sadface: Password is required'
+2025-11-13 21:39:03.753 [main] INFO  com.project.steps.LoginSteps - Error message verified: 'Epic sadface: Password is required'
+2025-11-13 21:39:03.753 [main] INFO  com.project.steps.LoginSteps - Closing browser
+2025-11-13 21:39:03.754 [main] INFO  com.project.pages.LoginPage - Closing browser
+2025-11-13 21:39:03.820 [main] INFO  com.project.steps.LoginSteps - ===== Test completed =====
 
-2025-11-13 06:00:24.685 [main] INFO  com.project.steps.LoginSteps - ===== Starting test with browser: edge =====
-2025-11-13 06:00:25.096 [main] INFO  com.project.pages.LoginPage - Navigating to https://www.saucedemo.com
-2025-11-13 06:00:25.332 [main] INFO  com.project.steps.LoginSteps - Login page opened successfully
-2025-11-13 06:00:25.333 [main] INFO  com.project.steps.LoginSteps - Entering username : 'standard_user'
-2025-11-13 06:00:25.422 [main] INFO  com.project.steps.LoginSteps - Entering password : 'secret_sauce'
-2025-11-13 06:00:25.482 [main] INFO  com.project.steps.LoginSteps - Clearing password field
-2025-11-13 06:00:25.515 [main] INFO  com.project.steps.LoginSteps - Clicking login button
-2025-11-13 06:00:25.565 [main] INFO  com.project.steps.LoginSteps - Verifying error message contains 'Epic sadface: Password is required'
-2025-11-13 06:00:25.593 [main] INFO  com.project.steps.LoginSteps - Error message verified: 'Epic sadface: Password is required'
-2025-11-13 06:00:25.593 [main] INFO  com.project.steps.LoginSteps - Closing browser
-2025-11-13 06:00:25.593 [main] INFO  com.project.pages.LoginPage - Closing browser
-2025-11-13 06:00:25.660 [main] INFO  com.project.steps.LoginSteps - ===== Test completed =====
+2025-11-13 21:39:03.822 [main] INFO  com.project.steps.LoginSteps - ===== Starting test with browser: edge =====
+2025-11-13 21:39:03.823 [main] INFO  com.project.utils.DriverFactory - Creating WebDriver for browser: edge
+2025-11-13 21:39:03.823 [main] INFO  com.project.utils.DriverFactory - Initializing EdgeDriver
+2025-11-13 21:39:04.291 [main] INFO  com.project.pages.LoginPage - Navigating to https://www.saucedemo.com
+2025-11-13 21:39:04.532 [main] INFO  com.project.steps.LoginSteps - Login page opened successfully
+2025-11-13 21:39:04.532 [main] INFO  com.project.steps.LoginSteps - Entering username : 'standard_user'
+2025-11-13 21:39:04.624 [main] INFO  com.project.steps.LoginSteps - Entering password : 'secret_sauce'
+2025-11-13 21:39:04.691 [main] INFO  com.project.steps.LoginSteps - Clearing password field
+2025-11-13 21:39:04.729 [main] INFO  com.project.steps.LoginSteps - Clicking login button
+2025-11-13 21:39:04.778 [main] INFO  com.project.steps.LoginSteps - Verifying error message contains 'Epic sadface: Password is required'
+2025-11-13 21:39:04.803 [main] INFO  com.project.steps.LoginSteps - Error message verified: 'Epic sadface: Password is required'
+2025-11-13 21:39:04.804 [main] INFO  com.project.steps.LoginSteps - Closing browser
+2025-11-13 21:39:04.804 [main] INFO  com.project.pages.LoginPage - Closing browser
+2025-11-13 21:39:04.870 [main] INFO  com.project.steps.LoginSteps - ===== Test completed =====
 
-2025-11-13 06:00:25.663 [main] INFO  com.project.steps.LoginSteps - ===== Starting test with browser: chrome =====
-2025-11-13 06:00:26.087 [main] INFO  com.project.pages.LoginPage - Navigating to https://www.saucedemo.com
-2025-11-13 06:00:26.294 [main] INFO  com.project.steps.LoginSteps - Login page opened successfully
-2025-11-13 06:00:26.294 [main] INFO  com.project.steps.LoginSteps - Entering username : 'standard_user'
-2025-11-13 06:00:26.365 [main] INFO  com.project.steps.LoginSteps - Entering password : 'secret_sauce'
-2025-11-13 06:00:26.413 [main] INFO  com.project.steps.LoginSteps - Clicking login button
-2025-11-13 06:00:26.477 [main] INFO  com.project.steps.LoginSteps - Verifying title: 'Swag Labs'
-2025-11-13 06:00:26.495 [main] INFO  com.project.steps.LoginSteps - Title verified: 'Swag Labs'
-2025-11-13 06:00:26.496 [main] INFO  com.project.steps.LoginSteps - Closing browser
-2025-11-13 06:00:26.496 [main] INFO  com.project.pages.LoginPage - Closing browser
-2025-11-13 06:00:26.562 [main] INFO  com.project.steps.LoginSteps - ===== Test completed =====
+2025-11-13 21:39:04.873 [main] INFO  com.project.steps.LoginSteps - ===== Starting test with browser: chrome =====
+2025-11-13 21:39:04.873 [main] INFO  com.project.utils.DriverFactory - Creating WebDriver for browser: chrome
+2025-11-13 21:39:04.873 [main] INFO  com.project.utils.DriverFactory - Initializing ChromeDriver
+2025-11-13 21:39:05.324 [main] INFO  com.project.pages.LoginPage - Navigating to https://www.saucedemo.com
+2025-11-13 21:39:05.549 [main] INFO  com.project.steps.LoginSteps - Login page opened successfully
+2025-11-13 21:39:05.550 [main] INFO  com.project.steps.LoginSteps - Entering username : 'standard_user'
+2025-11-13 21:39:05.627 [main] INFO  com.project.steps.LoginSteps - Entering password : 'secret_sauce'
+2025-11-13 21:39:05.681 [main] INFO  com.project.steps.LoginSteps - Clicking login button
+2025-11-13 21:39:05.743 [main] INFO  com.project.steps.LoginSteps - Verifying title: 'Swag Labs'
+2025-11-13 21:39:05.765 [main] INFO  com.project.steps.LoginSteps - Title verified: 'Swag Labs'
+2025-11-13 21:39:05.766 [main] INFO  com.project.steps.LoginSteps - Closing browser
+2025-11-13 21:39:05.766 [main] INFO  com.project.pages.LoginPage - Closing browser
+2025-11-13 21:39:05.838 [main] INFO  com.project.steps.LoginSteps - ===== Test completed =====
 
-2025-11-13 06:00:26.565 [main] INFO  com.project.steps.LoginSteps - ===== Starting test with browser: edge =====
-2025-11-13 06:00:26.985 [main] INFO  com.project.pages.LoginPage - Navigating to https://www.saucedemo.com
-2025-11-13 06:00:27.222 [main] INFO  com.project.steps.LoginSteps - Login page opened successfully
-2025-11-13 06:00:27.222 [main] INFO  com.project.steps.LoginSteps - Entering username : 'standard_user'
-2025-11-13 06:00:27.304 [main] INFO  com.project.steps.LoginSteps - Entering password : 'secret_sauce'
-2025-11-13 06:00:27.363 [main] INFO  com.project.steps.LoginSteps - Clicking login button
-2025-11-13 06:00:27.434 [main] INFO  com.project.steps.LoginSteps - Verifying title: 'Swag Labs'
-2025-11-13 06:00:27.454 [main] INFO  com.project.steps.LoginSteps - Title verified: 'Swag Labs'
-2025-11-13 06:00:27.454 [main] INFO  com.project.steps.LoginSteps - Closing browser
-2025-11-13 06:00:27.454 [main] INFO  com.project.pages.LoginPage - Closing browser
-2025-11-13 06:00:27.521 [main] INFO  com.project.steps.LoginSteps - ===== Test completed =====
+2025-11-13 21:39:05.841 [main] INFO  com.project.steps.LoginSteps - ===== Starting test with browser: edge =====
+2025-11-13 21:39:05.841 [main] INFO  com.project.utils.DriverFactory - Creating WebDriver for browser: edge
+2025-11-13 21:39:05.841 [main] INFO  com.project.utils.DriverFactory - Initializing EdgeDriver
+2025-11-13 21:39:06.311 [main] INFO  com.project.pages.LoginPage - Navigating to https://www.saucedemo.com
+2025-11-13 21:39:06.561 [main] INFO  com.project.steps.LoginSteps - Login page opened successfully
+2025-11-13 21:39:06.562 [main] INFO  com.project.steps.LoginSteps - Entering username : 'standard_user'
+2025-11-13 21:39:06.647 [main] INFO  com.project.steps.LoginSteps - Entering password : 'secret_sauce'
+2025-11-13 21:39:06.708 [main] INFO  com.project.steps.LoginSteps - Clicking login button
+2025-11-13 21:39:06.783 [main] INFO  com.project.steps.LoginSteps - Verifying title: 'Swag Labs'
+2025-11-13 21:39:06.802 [main] INFO  com.project.steps.LoginSteps - Title verified: 'Swag Labs'
+2025-11-13 21:39:06.802 [main] INFO  com.project.steps.LoginSteps - Closing browser
+2025-11-13 21:39:06.802 [main] INFO  com.project.pages.LoginPage - Closing browser
+2025-11-13 21:39:06.869 [main] INFO  com.project.steps.LoginSteps - ===== Test completed =====
 

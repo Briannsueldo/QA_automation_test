@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: LoginTestRunner
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.667 s - in LoginTestRunner
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.191 s - in LoginTestRunner
