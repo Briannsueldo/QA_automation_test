@@ -10,7 +10,7 @@
 - **Hamcrest** - Assertions
 - **FluentWait** - Smart waits
 
-## Test Cases
+## Test Cases (Chrome, Edge, (Firefox supported))
 
 ### UC-1: Empty credentials validation
 - Enter credentials
